@@ -17,7 +17,7 @@
 //
 //
 //    var a : Boolean = true
-//    var b : char = 'S'
+//    var b : Char =
 //    var c : Byte = 12
 //    var d : Short = -356
 //    var e : Int = 43564
